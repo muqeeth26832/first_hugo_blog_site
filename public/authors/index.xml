@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Muqeeth blog</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on Muqeeth blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 01:54:24 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abdul Haseeb</title>
+      <link>http://localhost:1313/authors/abdul-haseeb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/abdul-haseeb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abdul Muqeeth</title>
+      <link>http://localhost:1313/authors/abdul-muqeeth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/abdul-muqeeth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lama Dev</title>
+      <link>http://localhost:1313/authors/lama-dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/lama-dev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mamu</title>
+      <link>http://localhost:1313/authors/mamu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/mamu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yash</title>
+      <link>http://localhost:1313/authors/yash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/yash/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mamu on Muqeeth blog</title>
+    <link>http://localhost:1313/authors/mamu/</link>
+    <description>Recent content in Mamu on Muqeeth blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 01:54:24 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/mamu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/my-second-post/</link>
+      <pubDate>Thu, 30 May 2024 01:54:24 +0530</pubDate>
+      <guid>http://localhost:1313/my-second-post/</guid>
+      <description>Test content</description>
+    </item>
+  </channel>
+</rss>
